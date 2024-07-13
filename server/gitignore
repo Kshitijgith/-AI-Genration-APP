@@ -1,0 +1,4 @@
+import * as dotenv from 'dotenv'
+dotenv.config();
+process.env.MONGO_URL;
+process.env.LIMEWIRE_API_KEY
